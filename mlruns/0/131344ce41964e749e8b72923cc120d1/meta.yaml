@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rajeev.kumar/Documents/MLFLOW/mlruns/0/131344ce41964e749e8b72923cc120d1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 131344ce41964e749e8b72923cc120d1
+run_name: loud-asp-799
+run_uuid: 131344ce41964e749e8b72923cc120d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687758284668
+status: 1
+tags: []
+user_id: rajeev.kumar

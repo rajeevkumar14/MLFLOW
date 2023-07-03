@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rajeev.kumar/Documents/MLFLOW/mlruns/0/60c0455dc8d6434fa5b0f895ba6094ac/artifacts
+end_time: 1687758503247
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60c0455dc8d6434fa5b0f895ba6094ac
+run_name: illustrious-bear-469
+run_uuid: 60c0455dc8d6434fa5b0f895ba6094ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687758502529
+status: 3
+tags: []
+user_id: rajeev.kumar

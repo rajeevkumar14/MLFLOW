@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rajeev.kumar/Documents/MLFLOW/mlruns/0/cffb2f1710e64b479f3c1f1b95c54ad9/artifacts
+end_time: 1687759199612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cffb2f1710e64b479f3c1f1b95c54ad9
+run_name: secretive-sloth-420
+run_uuid: cffb2f1710e64b479f3c1f1b95c54ad9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687759198860
+status: 3
+tags: []
+user_id: rajeev.kumar
